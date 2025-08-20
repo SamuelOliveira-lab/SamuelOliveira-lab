@@ -1,8 +1,4 @@
-# 👨‍💻 Samuel Oliveira Ferraz Porto - Engenheiro de Computação em Formação
-
-
-
-
+## 👨‍💻 Samuel Oliveira Ferraz Porto - Engenheiro de Computação em Formação
 
 ## 📊 Stats
 
